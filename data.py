@@ -1,0 +1,20 @@
+question_data = [
+    {"type": "boolean",
+     "difficulty": "medium",
+     "category": "Science: Computers",
+     "question": "The first computer bug was formed by faulty wires.",
+     "correct_answer": "False",
+     "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
+     "question": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
+     "question": "The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
+     "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
+     "question": "The open source program Redis is a relational database server.",
+     "correct_answer": "False", "incorrect_answers": ["True"]}
+]
